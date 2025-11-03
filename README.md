@@ -1,1 +1,1 @@
-# mockup-sistem-sistem-informasi-bimbingan-akademik-Miptah
+# mockup-sistem-Kartu-Rencana-studi-akademik-Miptah
